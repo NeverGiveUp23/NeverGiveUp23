@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felix Vargas Jr  Software Engineer  🌍  I'm based in New Jersey * ✉️  You can contact me at [felixvjr0@gmail.com](mailto:felixvjr0@gmail.com) * 🧠  I'm learning Java/Spring Boot Suite * 🤝  I'm open to collaborating on interesting Projects * ⚡  All you can eat SUSHI is my kryptonite
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),
+</br> * My name is Felix Vargas Jr
+</br> * Software Engineer </br>
+* 🌍  I'm based in New Jersey 
+</br> * ✉️  You can contact me at [felixvjr0@gmail.com](mailto:felixvjr0@gmail.com) 
+</br> * 🧠  I'm learning Java/Spring Boot Suite 
+</br> * 🤝  I'm open to collaborating on interesting Projects 
+</br> * ⚡  All you can eat SUSHI is my kryptonite
 
 ### Skills  
 
