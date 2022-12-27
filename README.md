@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **felixvjr0@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Qi2RXySIZwd17sTGdLL0TPM1_R-yTuIrQEto5crO3vw/edit](https://docs.google.com/document/d/1Qi2RXySIZwd17sTGdLL0TPM1_R-yTuIrQEto5crO3vw/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Qi2RXySIZwd17sTGdLL0TPM1_R-yTuIrQEto5crO3vw/edit](https://docs.google.com/document/d/1Qi2RXySIZwd17sTGdLL0TPM1_R-yTuIrQEto5crO3vw/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
