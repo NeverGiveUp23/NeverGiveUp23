@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Felix Vargas Jr</h1>
-<h3 align="center">A passionate developer from New York, NY</h3>
+<h3 align="center">A passionate developer from New York & New Jersey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevergiveup23" alt="nevergiveup23" /></a> </p>
 
-- 🔭 I’m currently working on **Pete's Algo**
+- 🔭 I’m currently working on **CustomerData**
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **Projects involving React**
+- 👯 I’m looking to collaborate on **Projects involving Java, DevOps**
 
-- 💬 Ask me about **Java,and Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **felixvjr0@gmail.com**
 
