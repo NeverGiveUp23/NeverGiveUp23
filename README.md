@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **felixvjr0@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1Qi2RXySIZwd17sTGdLL0TPM1_R-yTuIrQEto5crO3vw/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://felixvargasjr.com/static/media/Felix_Vargas_Jr_-_Software_Engineer.519d74b737214c60da22.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
