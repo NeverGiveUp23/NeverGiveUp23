@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevergiveup23" alt="nevergiveup23" /></a> </p>
 
+- No matter what anyone say's, I will never give up. Tell me I can't do something, or say I won't be able to figure it out. I promise you I will go and achieve or find out the solution.
+
 - 🔭 I’m currently working on **CustomerData**
 
 - 🌱 I’m currently learning **Docker**
