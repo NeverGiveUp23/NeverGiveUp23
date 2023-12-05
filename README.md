@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CustomerData**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning ** Java MicroServices & MultiThreading **
 
 - 👯 I’m looking to collaborate on **Projects involving Java, DevOps**
 
