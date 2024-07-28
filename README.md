@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Felix Vargas Jr</h1>
+<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=You%20finally%20made%20it%20!%20💀&textBg=false&animation=fadeIn'>
+<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo2NWh1c3ZteGZqZ29hOXFzb210MDRzZmJtamRvZjJja3IzdnBnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPBcy65ZKpvFWY8/giphy.webp">
+
 <h3 align="center">A passionate Cloud/DevOps IT Professional from the East Coast!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevergiveup23" alt="nevergiveup23" /></a> </p>
