@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Vargas Jr</h1>
-<h3 align="center">A passionate developer from New York & New Jersey</h3>
+<h3 align="center">A passionate Cloud/DevOps IT Professional from the East Coast!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevergiveup23" alt="nevergiveup23" /></a> </p>
 
