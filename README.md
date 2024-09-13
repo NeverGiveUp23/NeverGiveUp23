@@ -2,23 +2,21 @@
 <p align="center">
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo2NWh1c3ZteGZqZ29hOXFzb210MDRzZmJtamRvZjJja3IzdnBnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPBcy65ZKpvFWY8/giphy.webp">
 </p>
-<h3 align="center">A passionate Cloud/DevOps IT Professional from the East Coast!</h3>
+<h3 align="center">A passionate Cloud/DevOps IT Professional!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevergiveup23" alt="nevergiveup23" /></a> </p>
 
 - No matter what anyone say's, I will never give up. Tell me I can't do something, or say I won't be able to figure it out. I promise you I will go and achieve or find out the solution.
 
-- 🔭 I’m currently working on **CustomerData**
+- 🔭 I’m currently working on **Networking & Cloud Computing**
 
-- 🌱 I’m currently learning ** Java MicroServices & MultiThreading **
+- 🌱 I’m currently learning ** Python Automation & Docker **
 
-- 👯 I’m looking to collaborate on **Projects involving Java, DevOps**
+- 👯 I’m looking to collaborate on **Projects involving Python, Golang, and DevOps**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Cloud**
 
 - 📫 How to reach me **felixvjr0@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://felixvargasjr.com/static/media/Felix_Vargas_Jr_-_Software_Engineer.519d74b737214c60da22.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
