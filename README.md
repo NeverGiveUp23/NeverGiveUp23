@@ -8,7 +8,7 @@
 
 - No matter what anyone say's, I will never give up. Tell me I can't do something, or say I won't be able to figure it out. I promise you I will go and achieve or find out the solution.
 
-- 🔭 I’m currently working on **Building a Web Server in C**
+- 🔭 I’m currently working on **Building a Web Server in C/C++**
 
 - 🌱 I’m currently learning ** Python Automation & Docker **
 
