@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nevergiveup23" alt="nevergiveup23" /></a> </p>
 
-- No matter what anyone say's, I will never give up. Tell me I can't do something, or say I won't be able to figure it out. I promise you I will go and achieve or find out the solution.
+- Giving up isn't an option.
 
-- 🔭 I’m currently working on **Building a Web Server in C/C++**
+- 🔭 I’m currently working on **Building a Compiler in C/C++**
 
-- 🌱 I’m currently learning ** Python Automation & Docker **
+- 🌱 I’m currently learning ** Advanced C++ & DSA**
 
-- 👯 I’m looking to collaborate on **Projects involving Python, Golang, and DevOps**
+- 👯 I’m looking to collaborate on **Projects involving C/C++ & Golang**
 
 - 💬 Ask me about **Programming**
 
