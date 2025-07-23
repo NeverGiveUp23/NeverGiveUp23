@@ -2,11 +2,11 @@
 <p align="center">
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo2NWh1c3ZteGZqZ29hOXFzb210MDRzZmJtamRvZjJja3IzdnBnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPBcy65ZKpvFWY8/giphy.webp">
 </p>
-- 🌱 I’m currently learning ** Computer & Mobile Architecture, AI/ML, and Swift**
+- 🌱 I’m currently learning ** Computer Architecture & Distributed Systems, AI/ML, and Golang**
 
-- 👯 I’m looking to collaborate on **Projects involving AI/ML + Python & Swift**
+- 👯 I’m looking to collaborate on **Projects involving AI/ML + Python & Go**
 
-- 💬 Ask me about **AI/ML & Swift**
+- 💬 Ask me about **AI/ML & Go**
 
 - 📫 How to reach me **felixvjr0@gmail.com**
 
