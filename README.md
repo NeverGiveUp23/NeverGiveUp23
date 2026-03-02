@@ -17,7 +17,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=swift" height="60" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="rust logo"  />
   <img width="12" />
 </div>
 
