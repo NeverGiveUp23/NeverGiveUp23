@@ -29,11 +29,11 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/xcode/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/jetbrains/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="60" alt="neovim logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/redis/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/2496ED" height="40" alt="docker logo"  />
 </div>
